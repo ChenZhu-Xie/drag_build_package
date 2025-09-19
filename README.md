@@ -5,10 +5,10 @@ Simply drag one or more plugin folders onto the `.bat` file, and it will output 
 
 ## ✨ Features
 
-- ✅ Drag-and-drop support (multiple plugin folders at once)  
-- ✅ Automatically generates `.sublime-package` (ZIP format)  
-- ✅ Reads `.gitignore` to exclude unnecessary files  
-- ✅ Supports saving the `7z.exe` path to Windows PATH
+- Drag-and-drop support (multiple plugin folders at once)  
+- Automatically generates `.sublime-package` (ZIP format)  
+- Reads `.gitignore` to exclude unnecessary files  
+- Supports saving the `7z.exe` path to Windows PATH
 
 ## 📦 Usage
 
