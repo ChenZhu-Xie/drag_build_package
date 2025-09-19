@@ -45,7 +45,7 @@ Packages/
 ```
 
 Drag `MyPlugin/` onto `drag_build_package.bat`.  
-The output will look like this: `Packages/MyPlugin.sublime-package`
+The output will look like this:
 ```
 Packages/
 ├── MyPlugin/
