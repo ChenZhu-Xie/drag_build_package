@@ -46,6 +46,15 @@ Packages/
 
 Drag `MyPlugin/` onto `drag_build_package.bat`.  
 The output will look like this: `Packages/MyPlugin.sublime-package`
+```
+Packages/
+├── MyPlugin/
+|   ├── Main.py
+|   ├── MyPlugin.sublime-settings
+|   └── .git/
+└── drag_build_package.bat
+└── MyPlugin.sublime-package  // generated file
+```
 
 ## 📄 License
 
