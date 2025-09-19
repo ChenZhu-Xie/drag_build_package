@@ -52,7 +52,7 @@ Packages/
 |   ├── Main.py
 |   ├── MyPlugin.sublime-settings
 |   └── .git/
-└── drag_build_package.bat
+├── drag_build_package.bat
 └── MyPlugin.sublime-package  // generated file
 ```
 
