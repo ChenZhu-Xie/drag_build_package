@@ -3,6 +3,8 @@
 A lightweight batch script to **package Sublime Text plugins** into `.sublime-package` files.  
 Simply drag one or more plugin folders onto the `.bat` file, and it will output the packaged files in the same directory as the script.
 
+![drag_build_package](https://github.com/user-attachments/assets/1b757a21-ecdc-4b70-80b4-cbc43e180e02)
+
 ## ✨ Features
 
 - Drag-and-drop support (multiple plugin folders at once)  
